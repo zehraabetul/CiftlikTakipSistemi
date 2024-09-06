@@ -1,0 +1,84 @@
+{
+  "urunler": [
+    {
+      "id": 1,
+      "kategori": 1,
+      "isim": "Ankara Polatlı Besi Çiftliği",
+      "resim": "https://st5.depositphotos.com/71264702/64477/v/1600/depositphotos_644779988-stock-illustration-angus-cattle-farm-logo-vector.jpg",
+      "dolulukOrani": "75%"
+    },
+    {
+      "id": 2,
+      "kategori": 1,
+      "isim": "Yıldırım Besi Çiftliği",
+      "resim": "https://st4.depositphotos.com/20435048/23326/v/380/depositphotos_233267878-stock-illustration-black-angus-logo-design-template.jpg",
+      "dolulukOrani": "80%"
+    },
+    {
+      "id": 4,
+      "kategori": 1,
+      "isim": "Çubukçu Besi Çiftliği",
+      "resim": "https://st4.depositphotos.com/20435048/23326/v/380/depositphotos_233267354-stock-illustration-black-angus-logo-design-template.jpg",
+      "dolulukOrani": "65%"
+    },
+    {
+      "id": 5,
+      "kategori": 2,
+      "isim": "İso Besi Çiftliği",
+      "resim": "https://uploads.turbologo.com/uploads/design/preview_image/1139891/preview_image20210716-16480-b2dodn.png",
+      "dolulukOrani": "90%"
+    },
+    {
+      "id": 6,
+      "kategori": 2,
+      "isim": "Demirkapı Besi Çiftliği",
+      "resim": "https://uploads.turbologo.com/uploads/design/preview_image/1036035/preview_image20200917-9746-1tivrrk.png",
+      "dolulukOrani": "85%"
+    },
+    {
+      "id": 8,
+      "kategori": 2,
+      "isim": "Belören Besi Çiftliği",
+      "resim": "https://uploads.turbologo.com/uploads/design/preview_image/1139273/preview_image20210716-16480-1ggq6yd.png",
+      "dolulukOrani": "70%"
+    },
+    {
+      "id": 16,
+      "kategori": 3,
+      "isim": "Özay Besi Çiftliği",
+      "resim": "https://uploads.turbologo.com/uploads/design/hq_preview_image/1440674/draw_svg20210707-31126-4q3n0s.svg.png",
+      "dolulukOrani": "95%"
+    },
+    {
+      "id": 19,
+      "kategori": 3,
+      "isim": "Family Farm",
+      "resim": "https://uploads.turbologo.com/uploads/design/hq_preview_image/1140236/draw_svg20210507-22909-19hrqtx.svg.png",
+      "dolulukOrani": "60%"
+    },
+    {
+      "id": 20,
+      "kategori": 3,
+      "isim": "Kılıç Besi Çiftliği",
+      "resim": "https://birmilyonnokta.com/view/upload/images/company/2023/04/06/11/120851/067a053cc410293ee2103d753c3a8975.png",
+      "dolulukOrani": "88%"
+    }
+  ],
+  "kategoriler": [
+    {
+      "id": 1,
+      "isim": "Ankara",
+      "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2Fx6xOnOc8YoV6ZccKwej1bhnRJCWNYfN8UrpSC36GA__YwUzvU0J45XtD9y7-lZCB0&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "isim": "İstanbul",
+      "resim": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%C4%B0stanbul_topographic_location_map.png"
+    },
+    {
+      "id": 3,
+      "isim": "İzmir",
+      "resim": "https://www.shutterstock.com/image-vector/izmir-map-illustration-vector-city-260nw-2114769188.jpg"
+    }
+  ]
+}
